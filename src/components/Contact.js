@@ -72,8 +72,7 @@ export const Contact = () => {
             Conatct Me
           </h2>
           <p className="relative mb-4">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
-            vero, dignissimos sint eum commodi qui quas facere, cupiditate
+            Please fill all inputs and I will contact by this.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
