@@ -1,6 +1,9 @@
 .header-title {
   font-family: cursive;
+  display: inline;
+  text-transform: uppercase;
 }
 .slug {
   font-size: 30px;
+  margin-bottom: 13px;
 }

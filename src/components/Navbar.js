@@ -6,20 +6,20 @@ export const Navbar = () => {
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <a className="title-font font-medium text-white mb-4 md:mb-0">
           <a href="#about" className="ml-3 text-xl header-title">
-            CODE
+            CODEOFLYF
           </a>
         </a>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-1 md:border-1 md:border-gray-700 flex flex-wrap items-center text-base justify-center">
-          <a href="#about" className="mr-5 hover:text-white text-white">
+          <a href="#about" className="mr-5 hover:text-black text-white">
             About me
           </a>
-          <a href="#projects" className="mr-5 hover:text-white text-white">
+          <a href="#projects" className="mr-5 hover:text-black text-white">
             Projects
           </a>
-          <a href="#Skills" className="mr-5 hover:text-white text-white">
+          <a href="#skills" className="mr-5 hover:text-black text-white">
             Skills
           </a>
-          <a href="#testimonials" className="mr-5 hover:text-white text-white">
+          <a href="#testimonials" className="mr-5 hover:text-black text-white">
             Testimonials
           </a>
         </nav>
